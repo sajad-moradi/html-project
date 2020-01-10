@@ -34,6 +34,7 @@ nav a,
     padding: 18px;
     height: 18px;
 }
+
 .scratch {
     color: #9a8f45;
     font-family: 'Bilbo Swash Caps', cursive;
@@ -41,82 +42,109 @@ nav a,
     margin-bottom: -0.5rem;
     font-size: xx-large;
 }
-.delicious-food{
-    font-size:xx-large ;
+
+.delicious-food {
+    font-size: xx-large;
     margin-top: -1rem;
 }
-.image{
+
+.image {
     width: 15rem;
     height: 15rem;
 }
-.menu{
+
+.menu {
     justify-content: center;
     margin-bottom: -3rem;
     margin-left: 5rem;
 }
-.discription{
+
+.discription {
     margin-left: 2rem;
 }
-.container{
+
+.container {
     flex-direction: row;
-} 
+}
+
+
 /*   */
-.section1{
+
+.section1 {
     width: 50rem;
 }
-.ingrediant{
+
+.ingrediant {
     margin-top: -1rem;
     margin-bottom: 0rem;
     font-family: sans-serif;
     width: 25rem;
 }
-.iconhalal{
+
+.iconhalal {
     margin-bottom: -2rem;
     margin-right: -5rem;
     width: 3rem;
     height: 3rem;
 }
-.fa-kiwi-bird{
+
+.fa-kiwi-bird {
     color: blue;
-    font-size:300% ;
+    font-size: 300%;
 }
-.food{
-    
+
+.food {
     justify-content: space-between;
 }
-.food1{
+
+.food1 {
     width: 30rem;
 }
-.icon{
+
+.icon {
     width: 5rem;
     height: 5rem;
 }
-.food2{
+
+.food2 {
     width: 36rem;
     justify-content: space-between;
 }
-.ingrediant1{
+
+.ingrediant1 {
     font-family: sans-serif;
     width: 40rem;
     margin-top: -1rem;
     margin-bottom: 0.5rem;
 }
-.starter{
+
+.starter {
     align-items: center;
     border-bottom: 1px solid black;
-    
 }
-.section2{
+
+.section2 {
     width: 50rem;
-    margin-left:2rem ;
+    margin-left: 2rem;
 }
-.imagedown{
+
+.imagedown {
     width: 25rem;
 }
-.fooddown{
+
+.fooddown {
     width: 23rem;
     justify-content: space-between;
 }
-.last{
+
+.last {
     justify-content: space-between;
+}
+
+.fab {
+    font-family: "Font Awesome 5 Brands";
+}
+
+.fa-3x {
+    font-size: 3em;
 }
