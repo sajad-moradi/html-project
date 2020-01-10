@@ -1,0 +1,26 @@
+nav a {
+    color: #242424;
+    font-size: 18px;
+    font-family: semibold;
+}
+
+nav a:active {
+    font-weight: bolder;
+    color: blue;
+}
+
+.nav-link {
+    display: inline-block;
+    padding: 0;
+    margin: 0;
+    font-size: 18px;
+}
+
+.nav-item {
+    margin: 1%;
+}
+
+.fab {
+    padding: 18px;
+    height: 18px;
+}
