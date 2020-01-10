@@ -1,0 +1,122 @@
+* {
+    font-family: 'Open Sans', sans-serif;
+}
+
+nav a,
+.link {
+    color: #242424;
+    font-size: 18px;
+    font-family: semibold;
+}
+
+.link:hover {
+    color: #0056b3;
+}
+
+.link:active,
+.nav-link:active {
+    font-weight: bolder;
+    color: #007bff;
+}
+
+.nav-link {
+    display: inline-block;
+    padding: 0;
+    margin: 0;
+    font-size: 18px;
+}
+
+.nav-item {
+    margin: 1%;
+}
+
+.fab {
+    padding: 18px;
+    height: 18px;
+}
+.scratch {
+    color: #9a8f45;
+    font-family: 'Bilbo Swash Caps', cursive;
+    margin-top: 7rem;
+    margin-bottom: -0.5rem;
+    font-size: xx-large;
+}
+.delicious-food{
+    font-size:xx-large ;
+    margin-top: -1rem;
+}
+.image{
+    width: 15rem;
+    height: 15rem;
+}
+.menu{
+    justify-content: center;
+    margin-bottom: -3rem;
+    margin-left: 5rem;
+}
+.discription{
+    margin-left: 2rem;
+}
+.container{
+    flex-direction: row;
+} 
+/*   */
+.section1{
+    width: 50rem;
+}
+.ingrediant{
+    margin-top: -1rem;
+    margin-bottom: 0rem;
+    font-family: sans-serif;
+    width: 25rem;
+}
+.iconhalal{
+    margin-bottom: -2rem;
+    margin-right: -5rem;
+    width: 3rem;
+    height: 3rem;
+}
+.fa-kiwi-bird{
+    color: blue;
+    font-size:300% ;
+}
+.food{
+    
+    justify-content: space-between;
+}
+.food1{
+    width: 30rem;
+}
+.icon{
+    width: 5rem;
+    height: 5rem;
+}
+.food2{
+    width: 36rem;
+    justify-content: space-between;
+}
+.ingrediant1{
+    font-family: sans-serif;
+    width: 40rem;
+    margin-top: -1rem;
+    margin-bottom: 0.5rem;
+}
+.starter{
+    align-items: center;
+    border-bottom: 1px solid black;
+    
+}
+.section2{
+    width: 50rem;
+    margin-left:2rem ;
+}
+.imagedown{
+    width: 25rem;
+}
+.fooddown{
+    width: 23rem;
+    justify-content: space-between;
+}
+.last{
+    justify-content: space-between;
+}
